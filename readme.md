@@ -1,6 +1,6 @@
 #EJERCICIO 1
 ## Que comando utilizaste en el paso 11?  Por que ?
-<p>**git reset --hard HEAD~1** (estando en la rama <em> styled</em>)</p>
+**git reset --hard HEAD~1** (estando en la rama _styled_)
 <p>Es necesario usar --hard para que se elimine el contenido del working copy.</p>
 <br>
 
